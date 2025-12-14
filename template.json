@@ -1,0 +1,10 @@
+[
+    {
+        "classification": {
+            "topic_category": "Science & Technology",
+            "post_type": "News Article",
+            "user_intent": "Discussion",
+            "confidence": 0.95
+        }
+    }
+]

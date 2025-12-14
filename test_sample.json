@@ -1,0 +1,1411 @@
+{
+  "scraped_at": "2025-12-03T19:55:09.041259",
+  "subreddit": "singularity",
+  "total_workers": 25,
+  "posts": [
+    {
+      "post_id": "1pd2to1",
+      "url": "https://reddit.com/r/singularity/comments/1pd2to1/one_of_worlds_most_detailed_virtual_brain/",
+      "title": "One of world’s most detailed virtual brain simulations is changing how we study the brain",
+      "body": "",
+      "author": "nick7566",
+      "created_utc": "2025-12-03T12:27:49+00:00",
+      "subreddit": "singularity",
+      "flair": "Neuroscience",
+      "score": 12,
+      "upvote_ratio": 1.0,
+      "num_comments": 2,
+      "awards": 0,
+      "is_nsfw": false,
+      "batch_id": 0,
+      "item_index": 0,
+      "comments": [
+        {
+          "comment_id": "ns276i8",
+          "parent_id": "t3_1pd2to1",
+          "author": "k111rcists",
+          "body": "But can it fix my suicidal thoughts?",
+          "created_utc": "2025-12-03T13:14:50+00:00",
+          "score": 1
+        },
+        {
+          "comment_id": "ns28o8d",
+          "parent_id": "t1_ns276i8",
+          "author": "Smilysis",
+          "body": "Amogus",
+          "created_utc": "2025-12-03T13:23:49+00:00",
+          "score": 1
+        }
+      ],
+      "comments_scraped_count": 2
+    },
+    {
+      "post_id": "1pcylux",
+      "url": "https://reddit.com/r/singularity/comments/1pcylux/shenzhens_sanitation_robot_competition_200/",
+      "title": "Shenzhen's Sanitation Robot Competition: 200+ Autonomous Service Robots Deployed by 40 Companies",
+      "body": "\nThis video is from the **2025 Shenzhen International AI Sanitation Robot Competition,** which concluded last week.\n\n**Scale:** Over **200 autonomous units** from **40+** companies participated.\n\n**The Mission:** These aren't just prototypes. They are competing for city wide deployment contracts to automate street cleaning in Shenzhen.\n\n**The Tech:** Fully autonomous navigation on open sidewalks and service roads, moving beyond closed loop testing.\n\nIt marks the shift from **single robot R&amp;D** to **mass fleet management.**\n\n**Source:** [X (@Robo_Tuo)](https://x.com/Robo_Tuo/status/1995314021281771644?t=bDq9FGzp1JJqXo7d41hfJA&amp;s=19)\n\n\n\n\n",
+      "author": "BuildwithVignesh",
+      "created_utc": "2025-12-03T08:12:50+00:00",
+      "subreddit": "singularity",
+      "flair": "Robotics",
+      "score": 84,
+      "upvote_ratio": 0.93,
+      "num_comments": 4,
+      "awards": 0,
+      "is_nsfw": false,
+      "batch_id": 0,
+      "item_index": 2,
+      "comments": [
+        {
+          "comment_id": "ns1n52c",
+          "parent_id": "t3_1pcylux",
+          "author": "[deleted]",
+          "body": "[removed]",
+          "created_utc": "2025-12-03T10:41:10+00:00",
+          "score": 1
+        },
+        {
+          "comment_id": "ns1n53q",
+          "parent_id": "t1_ns1n52c",
+          "author": "AutoModerator",
+          "body": "Your comment has been automatically removed. [Your removed content.](https://www.reddit.com/r/singularity/comments/1pcylux/shenzhens_sanitation_robot_competition_200/ns1n52c/) If you believe this was a mistake, please contact the moderators.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/singularity) if you have any questions or concerns.*",
+          "created_utc": "2025-12-03T10:41:11+00:00",
+          "score": 1
+        },
+        {
+          "comment_id": "ns1wjwf",
+          "parent_id": "t3_1pcylux",
+          "author": "Evening_Flamingo_765",
+          "body": "Outside of China, autonomous driving should be strictly managed.\n\nBut in big cities in China, you can see sanitation robots when you go out early.\n\nThis product is still in the development process and has many clumsy expressions.",
+          "created_utc": "2025-12-03T12:01:21+00:00",
+          "score": 1
+        },
+        {
+          "comment_id": "ns22vl7",
+          "parent_id": "t3_1pcylux",
+          "author": "xyzdist",
+          "body": "Send to my city please",
+          "created_utc": "2025-12-03T12:47:05+00:00",
+          "score": 1
+        }
+      ],
+      "comments_scraped_count": 4
+    },
+    {
+      "post_id": "1pd1ka3",
+      "url": "https://reddit.com/r/singularity/comments/1pd1ka3/engineai_just_posted_some_behind_the_scenes/",
+      "title": "EngineAI just posted some behind the scenes footage for their T800 unveiling video",
+      "body": "",
+      "author": "heart-aroni",
+      "created_utc": "2025-12-03T11:19:46+00:00",
+      "subreddit": "singularity",
+      "flair": "Robotics",
+      "score": 216,
+      "upvote_ratio": 0.9,
+      "num_comments": 146,
+      "awards": 0,
+      "is_nsfw": false,
+      "batch_id": 0,
+      "item_index": 1,
+      "comments": [
+        {
+          "comment_id": "ns1u2v7",
+          "parent_id": "t3_1pd1ka3",
+          "author": "40ozCurls",
+          "body": "But can it descend into a molten pit while thumbing the sky?",
+          "created_utc": "2025-12-03T11:41:51+00:00",
+          "score": 40,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1uycz",
+          "parent_id": "t1_ns1u2v7",
+          "author": "KoalaDeluxe",
+          "body": "And will it be back?",
+          "created_utc": "2025-12-03T11:48:53+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns24rps",
+          "parent_id": "t1_ns1uycz",
+          "author": "Alymsin",
+          "body": "Can we call him Uncle Bob?",
+          "created_utc": "2025-12-03T12:59:33+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1s3jt",
+          "parent_id": "t3_1pd1ka3",
+          "author": "WarCrimeWizard",
+          "body": "Lol Chinese robotics companies are turning this into an artform.\n\n1. release a slickly-produced demo video\n\n2. farm hundreds of CGI accusations \n\n3. wait a couple of days, release the behind-the-scenes footage \n\n4. emotional damage",
+          "created_utc": "2025-12-03T11:25:13+00:00",
+          "score": 150,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1zgr7",
+          "parent_id": "t1_ns1s3jt",
+          "author": "whatsthatguysname",
+          "body": "What\u2019s funny is you\u2019ll still see people claiming Unitree robots are fake/CGI even though they\u2019ve been out and about in public for nearly a year.",
+          "created_utc": "2025-12-03T12:23:13+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns26r3x",
+          "parent_id": "t1_ns1zgr7",
+          "author": "heart-aroni",
+          "body": "Speaking of Unitree, they just posted [a new video of the H2](https://youtu.be/kjJeQZECPcQ). Seems like China really really wants Real Steel in real life.",
+          "created_utc": "2025-12-03T13:12:11+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2823h",
+          "parent_id": "t1_ns26r3x",
+          "author": "whatsthatguysname",
+          "body": "lol poor G1 getting kneed is like child abuse \ud83d\ude05 I think a real steel type event is definitely going to happen.",
+          "created_utc": "2025-12-03T13:20:09+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2cc5u",
+          "parent_id": "t1_ns1zgr7",
+          "author": "mister_spunk",
+          "body": "&gt; they\u2019ve been out and about in public for nearly a year.\n\nLiterally never seen one",
+          "created_utc": "2025-12-03T13:45:26+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1tg0e",
+          "parent_id": "t1_ns1s3jt",
+          "author": "charmio68",
+          "body": "I find such accusations on any innovation from China these days, usually from Americans. A month ago people were calling their massive new train station fake... How the hell do you fake a train station?? It's going to have millions of people from around the world passing through it!  \n\nI'm kind of over it at this point. They dominate manufacturing worldwide. There's not even close competition. Of course there's going to be new innovations coming out.",
+          "created_utc": "2025-12-03T11:36:39+00:00",
+          "score": 54,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns293m1",
+          "parent_id": "t1_ns1tg0e",
+          "author": "toromio",
+          "body": "Yeah same. I learned how to sew last year and am blown away by basic clothes now. What they produce for pennies is way higher quality than something that would take me all morning. And of course, they have better equipment, but they know SO much about SO many areas of manufacturing that it\u2019s hard to wrap my head around.",
+          "created_utc": "2025-12-03T13:26:22+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1tqbl",
+          "parent_id": "t1_ns1tg0e",
+          "author": "robi4567",
+          "body": "I am not against chinese innovation. But this video does look CGI. Even this behind the schenes video looks cgi to me.",
+          "created_utc": "2025-12-03T11:39:02+00:00",
+          "score": 12,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1ub66",
+          "parent_id": "t1_ns1tqbl",
+          "author": "Evening_Flamingo_765",
+          "body": "To be honest, its video color grading and the final outline of the little boy's appearance really resemble CG.",
+          "created_utc": "2025-12-03T11:43:44+00:00",
+          "score": 12,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1uyqz",
+          "parent_id": "t1_ns1tqbl",
+          "author": "Own_Detail3500",
+          "body": "I haven't seen the original video and have no horse in this race but my first thought was CGI. Especially the shadowing circa 45 seconds looks well off compared to the human.",
+          "created_utc": "2025-12-03T11:48:58+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vpzp",
+          "parent_id": "t1_ns1uyqz",
+          "author": "Seakawn",
+          "body": "This technology is getting to a point where it's probably easier to make a robot, and train it to move this well, than it'd be to make CGI that looks even just half decent. (Granted with AI video the latter is getting easier too.)\n\nReminds me of the dynamic for the moon landing. It was easier to go to the moon than it would've been to fake it.\n\nThere's just something about robots moving well that's still uncanny (and will be until we see them walking our streets everyday and we finally get used to it). Stage a certain type of lighting, throw on a particular video filter, and your brain is gonna have questions. That's probably just normal. I agree with the parent of this thread that this is a formula you can leverage and milk the fuck out of.",
+          "created_utc": "2025-12-03T11:54:53+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wbwf",
+          "parent_id": "t1_ns1vpzp",
+          "author": "Own_Detail3500",
+          "body": "I think also there's just so many better ways to cleanly demonstrate a fully working robot than these suspiciously edited highlight reels. Invite guests/journalists, do live feeds, etc.",
+          "created_utc": "2025-12-03T11:59:38+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns27jko",
+          "parent_id": "t1_ns1wbwf",
+          "author": "The_Architect_032",
+          "body": "They already did a ton of that with their previous models.\n\n[https://www.youtube.com/@Engineairobot/videos](https://www.youtube.com/@Engineairobot/videos)\n\nAlso I think a lot of people don't actually know the tells or features of CGI to know what makes something look like CGI, and are just labelling anything that they don't believe \"CGI\".",
+          "created_utc": "2025-12-03T13:17:03+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns29px8",
+          "parent_id": "t1_ns27jko",
+          "author": "Own_Detail3500",
+          "body": "Maybe, but in this particular OP I think there are specific CGI tells, like poor shadows, strange human reactions and strange textures versus lighting.\n\nAlso in the link you've provided there are no examples of \"clean\" videos demonstrating or proving a lack of CGI.",
+          "created_utc": "2025-12-03T13:30:06+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2bm95",
+          "parent_id": "t1_ns29px8",
+          "author": "robi4567",
+          "body": "[https://www.youtube.com/watch?v=4\\_fYtMCV4ik](https://www.youtube.com/watch?v=4_fYtMCV4ik) there is this one. But if they have this kind of robot. Put it in a boring setting no flashy  camera stuff and have it do its thing. Like they are selling a robot it does not have to be a movie set.",
+          "created_utc": "2025-12-03T13:41:17+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns283ob",
+          "parent_id": "t1_ns1wbwf",
+          "author": "Chathamization",
+          "body": "EngineAI has given a lot of public demonstrations, though. Much more than Atlas or Figure (I don't believe either has had a single public demonstration?).",
+          "created_utc": "2025-12-03T13:20:25+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns24ikh",
+          "parent_id": "t1_ns1wbwf",
+          "author": "heart-aroni",
+          "body": "&gt;Invite guests/journalists, do live feeds, etc.\n\nThey do plenty of that too, videos of their previous robots are all over Chinese social media in all sorts of places doing all sorts of things. They even have a physical store so people can look at their robots.\n\nThe thing is the video was a \"reveal/unveiling video\" so they wanted it to look all cool, dramatic and cinematic. They don't care so much that people might doubt it's real initially, they know it's real and there will be no doubt one they start rolling them out in public, so they can afford being all cinematic and artsy for their video.",
+          "created_utc": "2025-12-03T12:57:55+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns284na",
+          "parent_id": "t1_ns24ikh",
+          "author": "Madgyver",
+          "body": "The demos they showed that didn't look rendered where pretty shit. Robot standing still or sitting and with its arms moving in a repeated pattern. I had that 25 years ago.  \nShow me a robot that can fold clothing or load/unload the dishwasher will impress me more then their \"cool\" videos stunts.",
+          "created_utc": "2025-12-03T13:20:34+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2748u",
+          "parent_id": "t1_ns24ikh",
+          "author": "Own_Detail3500",
+          "body": "I don't think cool and arty is what they are mainly going for here. I think with the behind the scenes they are trying to establish credibility that nothing was CGI.",
+          "created_utc": "2025-12-03T13:14:27+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns27shi",
+          "parent_id": "t1_ns2748u",
+          "author": "heart-aroni",
+          "body": "I meant the first, original video.",
+          "created_utc": "2025-12-03T13:18:33+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns27h9o",
+          "parent_id": "t1_ns1tqbl",
+          "author": "Chathamization",
+          "body": "I think it looked like a commercial, and people aren't used to seeing real robots in a high production value commercial the way we're used to seeing cars in them.",
+          "created_utc": "2025-12-03T13:16:38+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1z682",
+          "parent_id": "t1_ns1tg0e",
+          "author": "MaximumBanana23",
+          "body": "I'm an American and worked for GM. Everyone there would say Chinese engineering was inferior or they copied us. All lies and bull shit honestly.",
+          "created_utc": "2025-12-03T12:21:05+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns290w1",
+          "parent_id": "t1_ns1tg0e",
+          "author": "dagistan-warrior",
+          "body": "they used nano banana",
+          "created_utc": "2025-12-03T13:25:56+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xzmx",
+          "parent_id": "t1_ns1tg0e",
+          "author": "NFTArtist",
+          "body": "In China a lot of things are fakes (as is look quality until you see them up close). It affects every industry, sure they innovate but to further that image a lot of things are over exaggerated. It's well documented and not a conspiracy, ultimately it's Chinese people that suffer, the recent Hong Kong fires is one example where the buildings didn't have functional sprinkler, alarm, fire hydrants, etc. There's places that flood because they have fake drains. There's literally countless examples.",
+          "created_utc": "2025-12-03T12:12:18+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vlin",
+          "parent_id": "t1_ns1tg0e",
+          "author": "[deleted]",
+          "body": "[deleted]",
+          "created_utc": "2025-12-03T11:53:55+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns21lms",
+          "parent_id": "t1_ns1vlin",
+          "author": "charmio68",
+          "body": "Personally I don't think banning porn is a good thing or anything the government should be involving themselves in. But I can understand why others would view it as a positive.",
+          "created_utc": "2025-12-03T12:38:21+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1yjd6",
+          "parent_id": "t1_ns1vlin",
+          "author": "blazedjake",
+          "body": "Tiananmen Square Massacre 1989 begone",
+          "created_utc": "2025-12-03T12:16:24+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2715n",
+          "parent_id": "t1_ns1yjd6",
+          "author": "The_Architect_032",
+          "body": "You're right, surely that means 36 years later they couldn't possibly have their own companies capable of competing with American companies.",
+          "created_utc": "2025-12-03T13:13:55+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1y0up",
+          "parent_id": "t1_ns1tg0e",
+          "author": "LocoMod",
+          "body": "They certainly dominate the \u201ccheap disposable low value\u201d manufacturing market. Walmart thanks them.",
+          "created_utc": "2025-12-03T12:12:34+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2338f",
+          "parent_id": "t1_ns1y0up",
+          "author": "charmio68",
+          "body": "That might have been true a decade or two ago, but times have changed. They dominate the entire manufacturing industry worldwide, regardless of what quality you're after. \n\nWe needed to get some gears machined for an automotive gearbox. Sent out quotes and the ones from China blew everything else out of the water. They manufactured them, heat treat them, and ran quality control procedures we specified. All for an order of magnitude less than the nearest competitor. You just can't compete with that.",
+          "created_utc": "2025-12-03T12:48:31+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns26ser",
+          "parent_id": "t1_ns1y0up",
+          "author": "The_Architect_032",
+          "body": "Walmart's cheap Great Value brand is specifically American made, that's part of the point.",
+          "created_utc": "2025-12-03T13:12:25+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1yrvt",
+          "parent_id": "t1_ns1s3jt",
+          "author": "Tumblrkaarosult",
+          "body": "Would be funny if they'd use this to promote a new graphics engine or AI video maker. I have to admit these look less CGI-ish than the last video they released.",
+          "created_utc": "2025-12-03T12:18:11+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns25y2k",
+          "parent_id": "t1_ns1s3jt",
+          "author": "Chathamization",
+          "body": "Not just Chinese companies either. Most of /r/robotics was accusing the recent Optimus running video of being CGI.",
+          "created_utc": "2025-12-03T13:07:05+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns272p6",
+          "parent_id": "t1_ns25y2k",
+          "author": "heart-aroni",
+          "body": "r/robotics is so weird, somehow it's where I see the most animosity, snarky comments against robotics videos, demos and robotics companies when I post videos there. It almost feels like they don't like robotics there sometimes.",
+          "created_utc": "2025-12-03T13:14:11+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns22a81",
+          "parent_id": "t1_ns1s3jt",
+          "author": "Zealousideal-Yam3169",
+          "body": "Emotional self destruct? This whole video was cgi",
+          "created_utc": "2025-12-03T12:43:04+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns23o2m",
+          "parent_id": "t1_ns1s3jt",
+          "author": "ihya_oldum",
+          "body": "That video is the most Cgi looking think i ever seen tho i wouldn't be surprised if they did that on purpose",
+          "created_utc": "2025-12-03T12:52:22+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1yqlw",
+          "parent_id": "t1_ns1s3jt",
+          "author": "i-am-a-passenger",
+          "body": "Sorry, are we meant to pretend that this video itself isn\u2019t CGI?",
+          "created_utc": "2025-12-03T12:17:55+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns25sut",
+          "parent_id": "t1_ns1yqlw",
+          "author": "ostroia",
+          "body": "Yeah if anyone can explain this type of stuff https://i.imgur.com/pWQPvPM.mp4 that happens all over the place (its not just legs but these are the most obvious) that would be great.\n\n\nHeres another one where for a single frame theres a stray shadow on the right near the leg. At first I thought the board bent under the weight but its only that small line, the rest of the board doesnt move https://i.imgur.com/YJDslzY.mp4",
+          "created_utc": "2025-12-03T13:06:09+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns26zp4",
+          "parent_id": "t1_ns25sut",
+          "author": "fishboy_magic",
+          "body": "More people in this thread need to see this!",
+          "created_utc": "2025-12-03T13:13:40+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns28iqf",
+          "parent_id": "t1_ns26zp4",
+          "author": "ostroia",
+          "body": "I mean if this is a real robot and theres no alteration, its impressive. If this is a fully cgi or ai made robot, its impressive. Im just saying theres a bunch of things that look really weird and uncanny when you start going frame by frame, with both videos.",
+          "created_utc": "2025-12-03T13:22:54+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1tu5q",
+          "parent_id": "t1_ns1s3jt",
+          "author": "mambotomato",
+          "body": "Or, playing the extremely long con, produce a CGI behind the scenes video at the same time you make your product demo.\n\n\n(Hey, Toy Story had blooper outtakes, after all. ;P )",
+          "created_utc": "2025-12-03T11:39:54+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns22w6l",
+          "parent_id": "t1_ns1s3jt",
+          "author": "Kobiash1",
+          "body": "And the people screaming CGI are the ones who are quick to jump on Boomers falling for AI videos. This just proves we're near the end of trusting any video at all. People will think things are fake until robots come marching down the steets.",
+          "created_utc": "2025-12-03T12:47:12+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vo6f",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Aromatic-Wait-6205",
+          "body": "yeah ok, but why do we need to teach these robots how to harm us?",
+          "created_utc": "2025-12-03T11:54:30+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1x689",
+          "parent_id": "t1_ns1vo6f",
+          "author": "NY_State-a-Mind",
+          "body": "China forces all companies to simultaneously build military applications into everything.",
+          "created_utc": "2025-12-03T12:06:09+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1zicl",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Marcus_Aguiar",
+          "body": "I cant wait to fight one of these for clean water !! :)",
+          "created_utc": "2025-12-03T12:23:32+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns223is",
+          "parent_id": "t1_ns1zicl",
+          "author": "taskmeister",
+          "body": "As of 2025 I am still pretty confident in knocking these robots TFO.",
+          "created_utc": "2025-12-03T12:41:47+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1rqcy",
+          "parent_id": "t3_1pd1ka3",
+          "author": "heart-aroni",
+          "body": "youtube link: [\"EngineAI T800 BTS Footage: Setting the Record Straight on CGI Rumors\"](https://youtu.be/Ts7oiCRK5Qw)\n\nprevious thread: https://www.reddit.com/r/singularity/s/5o9dz7T5GN",
+          "created_utc": "2025-12-03T11:22:06+00:00",
+          "score": 10,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xg7w",
+          "parent_id": "t1_ns1rqcy",
+          "author": "rightpolis",
+          "body": "Am I crazy but it doesn't look real... In pretty much every shot the robot looks a lot like computer generated graphics",
+          "created_utc": "2025-12-03T12:08:15+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns29h1m",
+          "parent_id": "t1_ns1xg7w",
+          "author": "The_Architect_032",
+          "body": "You're conflating disbelief with CGI, just because you have a hard time believing something is real, that doesn't mean it *looks a lot lik*e *CGI*, it just means you have a hard time believing it's real*.*\n\nA lot of people also called the Boston Dynamics robots CGI, as well as just about every other robot.",
+          "created_utc": "2025-12-03T13:28:37+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wr6i",
+          "parent_id": "t3_1pd1ka3",
+          "author": "JLeonsarmiento",
+          "body": "![gif](giphy|dUCaihquaVMrj4TwTv)",
+          "created_utc": "2025-12-03T12:02:57+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns24uvw",
+          "parent_id": "t3_1pd1ka3",
+          "author": "wspOnca",
+          "body": "Where are the clown saying it was CGI? \ud83d\ude02",
+          "created_utc": "2025-12-03T13:00:07+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1sn0j",
+          "parent_id": "t3_1pd1ka3",
+          "author": "FreeEdmondDantes",
+          "body": "Hilarious how many people were adamant, in the most dickish ways possible, that it was CG.",
+          "created_utc": "2025-12-03T11:29:51+00:00",
+          "score": 42,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1sx4j",
+          "parent_id": "t1_ns1sn0j",
+          "author": "Economy-Fee5830",
+          "body": "Well, you know, they know pixels, since they have done some 'shops before lol.",
+          "created_utc": "2025-12-03T11:32:14+00:00",
+          "score": 20,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns26sob",
+          "parent_id": "t1_ns1sx4j",
+          "author": "eposnix",
+          "body": "I don't think it's cgi but the reason Boston Dynamics does so many videos where they smack their robots with hockey sticks is to show it's not brittle and can adapt to outside interference. I notice most of these Chinese labs avoid doing that. It makes me wonder if the robots would fall over from a heavy breeze.",
+          "created_utc": "2025-12-03T13:12:28+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns273nj",
+          "parent_id": "t1_ns26sob",
+          "author": "Economy-Fee5830",
+          "body": "https://www.youtube.com/watch?v=y-K8cgSHvh8\n\nMaybe its just not the culture.",
+          "created_utc": "2025-12-03T13:14:21+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2bmp0",
+          "parent_id": "t1_ns273nj",
+          "author": "eposnix",
+          "body": "Things I look for in robotics videos:\n\n- Unscripted, useful tasks\n- Robustness\n- Autonomy\n- Environment\n- Failure footage\n- Speed and stability\n- Jumpcuts and fastcuts\n\nIf I see a slick demo on a perfectly flat floor with lots of jumpcuts to hide mistakes, I nope out. Unitree (the robot in your video) has provided lots of good footage of their robots handling interference, but they have yet to show it doing anything useful or unscripted.",
+          "created_utc": "2025-12-03T13:41:21+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2bwfs",
+          "parent_id": "t1_ns2bmp0",
+          "author": "Economy-Fee5830",
+          "body": "&gt; but they have yet to show it doing anything useful or unscripted.\n\nYou are on /r/singularity - when the brains come they will instantly have some very capable bodies to run.",
+          "created_utc": "2025-12-03T13:42:55+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1t0n2",
+          "parent_id": "t1_ns1sn0j",
+          "author": "xcewq",
+          "body": "I just thought it was heavily edited.\n\n\nPersonally I don't need a robot to beat me up, so I will not order this, but it looks pretty cool.",
+          "created_utc": "2025-12-03T11:33:04+00:00",
+          "score": 8,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns29xhj",
+          "parent_id": "t1_ns1sn0j",
+          "author": "Background-Quote3581",
+          "body": "Yeah, I was literally the only person pointing out that there's no visible CGI.\n\nThey obviously wanted it to look unreal.\n\n[https://www.reddit.com/r/singularity/comments/1pc617k/comment/nrvlobb/?utm\\_source=share&amp;utm\\_medium=web3x&amp;utm\\_name=web3xcss&amp;utm\\_term=1&amp;utm\\_content=share\\_button](https://www.reddit.com/r/singularity/comments/1pc617k/comment/nrvlobb/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button)",
+          "created_utc": "2025-12-03T13:31:21+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns29ykb",
+          "parent_id": "t1_ns1sn0j",
+          "author": "The_Architect_032",
+          "body": "There are literal phone camera videos of their previous robots, and their last one did some similar tricks. They had them at conventions and stuff, and I'm sure once people wait more than a week this one will be at conventions too.\n\nIt's crazy that on a Singularity sub of all places people refuse to believe robots have advanced this far.",
+          "created_utc": "2025-12-03T13:31:31+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1tv0z",
+          "parent_id": "t1_ns1sn0j",
+          "author": "robi4567",
+          "body": "Still looks CGI.",
+          "created_utc": "2025-12-03T11:40:05+00:00",
+          "score": 6,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1x8lt",
+          "parent_id": "t1_ns1sn0j",
+          "author": "StilgarofTabar",
+          "body": "Its still a CG robot lol.\u00a0",
+          "created_utc": "2025-12-03T12:06:38+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns23usr",
+          "parent_id": "t1_ns1sn0j",
+          "author": "ihya_oldum",
+          "body": "Dude i'm ready to swallow my words but i swear to god that whas the most CG looking robot i've ever seen",
+          "created_utc": "2025-12-03T12:53:36+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns22eic",
+          "parent_id": "t1_ns1sn0j",
+          "author": "Zealousideal-Yam3169",
+          "body": "I'll put money on this video being cgi",
+          "created_utc": "2025-12-03T12:43:54+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns20jfz",
+          "parent_id": "t1_ns1sn0j",
+          "author": "Eljowe",
+          "body": "You'll look silly when you'll realise it's still CGI xd",
+          "created_utc": "2025-12-03T12:30:55+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns262e9",
+          "parent_id": "t1_ns1sn0j",
+          "author": "LeinadLlennoco",
+          "body": "Is it so obvious to you that this is legitimate? Are people supposed to be more respectful or reverent when asserting that this looks like CGI? Cause it looks like shitty CGI from 2008 while at the same time showing robot movement beyond anything anyone has demoed so far. If it\u2019s real they can just release a normal demo video.",
+          "created_utc": "2025-12-03T13:07:51+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wv9f",
+          "parent_id": "t3_1pd1ka3",
+          "author": "NY_State-a-Mind",
+          "body": "That think could beat the shit out of 80% of people on the planet already",
+          "created_utc": "2025-12-03T12:03:49+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns24rgf",
+          "parent_id": "t1_ns1wv9f",
+          "author": "imp0ppable",
+          "body": "It's literally doing pre-programmed moves. The balance and movements are super impressive but it has no idea how to fight.\n\nAssuming it's not CGI of course.",
+          "created_utc": "2025-12-03T12:59:30+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xcsa",
+          "parent_id": "t3_1pd1ka3",
+          "author": "npquanh30402",
+          "body": "It is more real steel than T800.",
+          "created_utc": "2025-12-03T12:07:33+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1zqec",
+          "parent_id": "t3_1pd1ka3",
+          "author": "KennKennyKenKen",
+          "body": "This robot looks actually looks more advanced than Hugh Jackman's shit boxing robot.",
+          "created_utc": "2025-12-03T12:25:10+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns22c11",
+          "parent_id": "t3_1pd1ka3",
+          "author": "MMetalRain",
+          "body": "So how do you stop that? Fishing net?",
+          "created_utc": "2025-12-03T12:43:26+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2ap94",
+          "parent_id": "t1_ns22c11",
+          "author": "The_Architect_032",
+          "body": "Fishing net would stop me, so probably.",
+          "created_utc": "2025-12-03T13:35:53+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns22rw2",
+          "parent_id": "t3_1pd1ka3",
+          "author": "WelcomeToTheClubPal",
+          "body": "i love how they made the last with \"chappie ears\"",
+          "created_utc": "2025-12-03T12:46:25+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns231in",
+          "parent_id": "t1_ns22rw2",
+          "author": "heart-aroni",
+          "body": "it's cute",
+          "created_utc": "2025-12-03T12:48:12+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1tsjd",
+          "parent_id": "t3_1pd1ka3",
+          "author": "fishboy_magic",
+          "body": "It looked fake as fuck yesterday, it still looks fake as fuck. The robots texture and the lighting looks just so unnatural. Maybe the very last clip is real, but that was the least impressive shot anyways",
+          "created_utc": "2025-12-03T11:39:32+00:00",
+          "score": 20,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1ue26",
+          "parent_id": "t1_ns1tsjd",
+          "author": "Just_Image",
+          "body": "It's 100% still a CGI robot",
+          "created_utc": "2025-12-03T11:44:22+00:00",
+          "score": 8,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vjuk",
+          "parent_id": "t1_ns1tsjd",
+          "author": "Fearyn",
+          "body": "Yeah people are very gullible here. It still looks fake af",
+          "created_utc": "2025-12-03T11:53:33+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wzcv",
+          "parent_id": "t1_ns1vjuk",
+          "author": "SumpCrab",
+          "body": "\"If you don't believe you are already being fooled by AI, you are naive.\"",
+          "created_utc": "2025-12-03T12:04:41+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xf70",
+          "parent_id": "t1_ns1wzcv",
+          "author": "Fearyn",
+          "body": "I dont think this is ai generated but there is a lot of cgi used there.",
+          "created_utc": "2025-12-03T12:08:02+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wwr4",
+          "parent_id": "t3_1pd1ka3",
+          "author": "constarx",
+          "body": "There's a certain crowd of experts on Reddit that will say it's CGI until the Robot is in the room with them beating their stupid asses. Even then I'm not sure they'd admit they were wrong.",
+          "created_utc": "2025-12-03T12:04:08+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns27t5l",
+          "parent_id": "t1_ns1wwr4",
+          "author": "redditsublurker",
+          "body": "They were real dickish yesterday. Saying they had years in the industry and veterans of CGI. Flashing their badges looking like fools and today like idiots.",
+          "created_utc": "2025-12-03T13:18:40+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1ydvw",
+          "parent_id": "t1_ns1wwr4",
+          "author": "RuthlessCriticismAll",
+          "body": "They will just pretend that it was CGI before and just suddenly became real.",
+          "created_utc": "2025-12-03T12:15:15+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns20bko",
+          "parent_id": "t1_ns1ydvw",
+          "author": "xyzdist",
+          "body": "No, they still think every footage is CGI.",
+          "created_utc": "2025-12-03T12:29:22+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns20i4v",
+          "parent_id": "t1_ns1ydvw",
+          "author": "robi4567",
+          "body": "But like it is very easy to show it as not CGI. Have a not heavily edited video. At a press conference well lit area. The textures on the robot look to me like a video game robot.",
+          "created_utc": "2025-12-03T12:30:40+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2aiyr",
+          "parent_id": "t1_ns20i4v",
+          "author": "The_Architect_032",
+          "body": "They literally just revealed it, give them more than a week to show it off at a convention like they did their previous robots which did some similar tricks.",
+          "created_utc": "2025-12-03T13:34:52+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1z0j8",
+          "parent_id": "t1_ns1wwr4",
+          "author": "i-am-a-passenger",
+          "body": "There also a certain crowd of experts on Reddit that will say it isn\u2019t CGI, even though it is incredibly obvious that it is CGI.",
+          "created_utc": "2025-12-03T12:19:56+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2acl0",
+          "parent_id": "t1_ns1z0j8",
+          "author": "The_Architect_032",
+          "body": "They literally had their previous robot doing similar tricks at conventions, there are random ass phone video recordings of them doing this shit with the last version.\n\nSo yeah, it sounds like you just won't believe it unless it's in the room with you kicking your ass.",
+          "created_utc": "2025-12-03T13:33:49+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xzws",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Autoxquattro",
+          "body": "Don't worry they're only  at T800.\nwhen they get to T1000, then shit yer pants! \nSend these people a fucking movie to watch? \nOh, the premise behind  the terminator  movie  was lit, lets make some of those! Well also use jailbroken AI to run them!",
+          "created_utc": "2025-12-03T12:12:21+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns25jum",
+          "parent_id": "t3_1pd1ka3",
+          "author": "aconitous",
+          "body": "I'm not taking sides, but if they wanted to prove authenticity, they shouldn't have overproduced this video as well. This is the most *fake-looking* behind-the-scenes since Barbie.\n\nIf they really wanted to make it look real they should've ditched the shallow depth of field, long lenses, stabilisation, aggressive colour grading and posted it in 4K/60. Showing a couple of bloopers and touching the robot (not in an isolated shot) would've helped too.",
+          "created_utc": "2025-12-03T13:04:34+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns20psg",
+          "parent_id": "t3_1pd1ka3",
+          "author": "NeptuneTTT",
+          "body": "I need corridor digital to tell me what to think",
+          "created_utc": "2025-12-03T12:32:09+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1s6uy",
+          "parent_id": "t3_1pd1ka3",
+          "author": "gajger",
+          "body": "Behind scenes CGI ?",
+          "created_utc": "2025-12-03T11:26:00+00:00",
+          "score": 5,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1t73f",
+          "parent_id": "t1_ns1s6uy",
+          "author": "WiSaGaN",
+          "body": "They either have the robot, or they have world's most advanced video generation model that can maintain consistency across different videos.",
+          "created_utc": "2025-12-03T11:34:35+00:00",
+          "score": 10,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1tt4m",
+          "parent_id": "t1_ns1t73f",
+          "author": "robi4567",
+          "body": "You know people could make cgi by hand as well. It does not have to be AI generated video.",
+          "created_utc": "2025-12-03T11:39:39+00:00",
+          "score": 14,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1u9t1",
+          "parent_id": "t1_ns1tt4m",
+          "author": "40ozCurls",
+          "body": "No they can\u2019t it\u2019s CGI not HGI",
+          "created_utc": "2025-12-03T11:43:25+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns209bh",
+          "parent_id": "t1_ns1u9t1",
+          "author": "robi4567",
+          "body": "You know what I mean. Like this is made with artist behind a computer not with a video generation AI.",
+          "created_utc": "2025-12-03T12:28:55+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1ye0i",
+          "parent_id": "t1_ns1u9t1",
+          "author": "ButteredBoots",
+          "body": "Really hope this is sarcasm",
+          "created_utc": "2025-12-03T12:15:17+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1z5ql",
+          "parent_id": "t1_ns1ye0i",
+          "author": "40ozCurls",
+          "body": "Well hope in one hand and shit in the other, then tell me when one of them becomes a computer.",
+          "created_utc": "2025-12-03T12:20:59+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1v6d2",
+          "parent_id": "t1_ns1s6uy",
+          "author": "xyzdist",
+          "body": "Thats the answer I expected!! LOL\n\nGood for u sir. Everthing u see is either AI / CGI generated. You must be Neo.",
+          "created_utc": "2025-12-03T11:50:39+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xtwt",
+          "parent_id": "t3_1pd1ka3",
+          "author": "digital_mystic23",
+          "body": "Great, the ICE of the future\u2026\u2026",
+          "created_utc": "2025-12-03T12:11:06+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns27xs0",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Legal_Schedule6331",
+          "body": "This 100% looks like CGI.",
+          "created_utc": "2025-12-03T13:19:26+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1x34w",
+          "parent_id": "t3_1pd1ka3",
+          "author": "StilgarofTabar",
+          "body": "Lol you can't just add dudes with cameras and call it behind the scenes. This still looks CGI as fuck. Corridor crew made a roboto video, you can watch that to see how this was done.\u00a0",
+          "created_utc": "2025-12-03T12:05:29+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2b17a",
+          "parent_id": "t1_ns1x34w",
+          "author": "The_Architect_032",
+          "body": "Did they also CGI all of their past robots into conventions and into the phone cameras of people who attended the conventions and recorded their past robots doing similar moves?\n\nAlso it's behind the scenes because it's *behind* the scenes, it's what was behind the shooting of the scenes, there is no further *behind the scenes* you can go other than giving a technical explanation of how the robot works.",
+          "created_utc": "2025-12-03T13:37:51+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wk7f",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Scomosuckseggs",
+          "body": "I want to believe, because holy shit this would be a fucking cool advancement. But something seems off.. It just looks like CGI. The colour and motion isnt quite right. \n\nI hope I am wrong, but the 'behind the scenes' did nothing to disprove the notion.",
+          "created_utc": "2025-12-03T12:01:25+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns282kn",
+          "parent_id": "t1_ns1wk7f",
+          "author": "kowdermesiter",
+          "body": "You clearly need a behind the scenes of the behind the scenes, because who recorded the person who recorded the main cameraman? \n\nPreferably with a 2010 cheap powershot camera.",
+          "created_utc": "2025-12-03T13:20:14+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vqw9",
+          "parent_id": "t3_1pd1ka3",
+          "author": "CmdrAirdroid",
+          "body": "Boston Dynamics atlas performed moves like this already years ago, why is it so hard for people to believe this is real? In humanoid robotics the software is the main challenge, without AGI the robot is useless. Hardware is significantly easier and can be done even by small companies.",
+          "created_utc": "2025-12-03T11:55:05+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns211yh",
+          "parent_id": "t1_ns1vqw9",
+          "author": "Eljowe",
+          "body": "No BD atlas did not. And yes, still CGI. The movements are way off. See you in a week when this is debunked officially",
+          "created_utc": "2025-12-03T12:34:31+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1stge",
+          "parent_id": "t3_1pd1ka3",
+          "author": "[deleted]",
+          "body": "[removed]",
+          "created_utc": "2025-12-03T11:31:22+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1sti5",
+          "parent_id": "t1_ns1stge",
+          "author": "AutoModerator",
+          "body": "Your comment has been automatically removed. [Your removed content.](https://www.reddit.com/r/singularity/comments/1pd1ka3/engineai_just_posted_some_behind_the_scenes/ns1stge/) If you believe this was a mistake, please contact the moderators.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/singularity) if you have any questions or concerns.*",
+          "created_utc": "2025-12-03T11:31:23+00:00",
+          "score": 0,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1sznk",
+          "parent_id": "t3_1pd1ka3",
+          "author": "[deleted]",
+          "body": "[removed]",
+          "created_utc": "2025-12-03T11:32:50+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1szpg",
+          "parent_id": "t1_ns1sznk",
+          "author": "AutoModerator",
+          "body": "Your comment has been automatically removed. [Your removed content.](https://www.reddit.com/r/singularity/comments/1pd1ka3/engineai_just_posted_some_behind_the_scenes/ns1sznk/) If you believe this was a mistake, please contact the moderators.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/singularity) if you have any questions or concerns.*",
+          "created_utc": "2025-12-03T11:32:51+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wqg6",
+          "parent_id": "t3_1pd1ka3",
+          "author": "phatdoof",
+          "body": "They should deploy these at the mountainous Indian border.",
+          "created_utc": "2025-12-03T12:02:47+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1wtyz",
+          "parent_id": "t3_1pd1ka3",
+          "author": "nanlinr",
+          "body": "Born the subvert? Like... its meant to break the law? That sounds super safe...",
+          "created_utc": "2025-12-03T12:03:33+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1ypvo",
+          "parent_id": "t3_1pd1ka3",
+          "author": "ClankRatchit",
+          "body": "Now clean the dishes, check on grandmother and grandfather and don't hurt anyone! What is the current ppm analysis for this house?",
+          "created_utc": "2025-12-03T12:17:46+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns20fmv",
+          "parent_id": "t3_1pd1ka3",
+          "author": "venetiasporch",
+          "body": "Time to start investing in emps because these dipshits wanna create murder bots named after literal murder bots instead of robot assistants. Read the fucking room!!",
+          "created_utc": "2025-12-03T12:30:11+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns25vwj",
+          "parent_id": "t3_1pd1ka3",
+          "author": "TopTippityTop",
+          "body": "Not creepy at all",
+          "created_utc": "2025-12-03T13:06:42+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns266hg",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Altruistic_Worker748",
+          "body": "Why are we making robots that have the ability to clubber us with iron fists if they go rouge?",
+          "created_utc": "2025-12-03T13:08:34+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns27qpv",
+          "parent_id": "t3_1pd1ka3",
+          "author": "fgsfds___",
+          "body": "Kicking down a swinging door\u2026 what a badass.",
+          "created_utc": "2025-12-03T13:18:15+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns288t8",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Callumpi",
+          "body": "Just give them a gun at this point",
+          "created_utc": "2025-12-03T13:21:15+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2altz",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Automatic-Pay-4095",
+          "body": "Lol\n\n\nMore marketing than anything",
+          "created_utc": "2025-12-03T13:35:19+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2axbu",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Worldly_Evidence9113",
+          "body": "Can\u2019t wait! Love it \ud83d\ude0a",
+          "created_utc": "2025-12-03T13:37:14+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2bhcg",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Waste_Positive2399",
+          "body": "T800, indeed. \ud83d\udc80",
+          "created_utc": "2025-12-03T13:40:28+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2by0j",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Aesthedia7",
+          "body": "T800? Seriously?",
+          "created_utc": "2025-12-03T13:43:11+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2c1up",
+          "parent_id": "t3_1pd1ka3",
+          "author": "HabbyKoivu",
+          "body": "i mean - it still looks like CGI. Sorry but it does.",
+          "created_utc": "2025-12-03T13:43:47+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns2c89n",
+          "parent_id": "t3_1pd1ka3",
+          "author": "mister_spunk",
+          "body": "None of this impresses me anymore. Until I see these start popping up in every day life doing every day tasks, seeing these hype videos of robots doing martial arts is very lame.",
+          "created_utc": "2025-12-03T13:44:48+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1v71w",
+          "parent_id": "t3_1pd1ka3",
+          "author": "RDSF-SD",
+          "body": " WOW this is excellent hardware. Impressive!",
+          "created_utc": "2025-12-03T11:50:48+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vii9",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Advanced-Lie-841",
+          "body": "What happenes if it malfunctions and whoop whaps a kid. Woooorld staaar",
+          "created_utc": "2025-12-03T11:53:16+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xz03",
+          "parent_id": "t3_1pd1ka3",
+          "author": "ecnecn",
+          "body": "Even the making of looks like a rendered model... hope the VC money scam is worth it... pretty ridiculous",
+          "created_utc": "2025-12-03T12:12:09+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns20hs0",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Double_Practice130",
+          "body": "Foking trash clanker",
+          "created_utc": "2025-12-03T12:30:35+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1u1r6",
+          "parent_id": "t3_1pd1ka3",
+          "author": "whybotherbrother17",
+          "body": "CGI. But bad one.",
+          "created_utc": "2025-12-03T11:41:35+00:00",
+          "score": -4,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1u2bi",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Just_Image",
+          "body": "Our behind the scenes (now with more CGI robot)",
+          "created_utc": "2025-12-03T11:41:43+00:00",
+          "score": -3,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vrgu",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Dry-Broccoli-638",
+          "body": "still looks fake to me, but if its not, guess they are making good progress!",
+          "created_utc": "2025-12-03T11:55:12+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1xxsh",
+          "parent_id": "t3_1pd1ka3",
+          "author": "formlessglowie",
+          "body": "They're very clearly mixing up real footage with CGI in order to confuse people. If you look carefully you can clearly spot when it's a real robot and when it's a CG one.",
+          "created_utc": "2025-12-03T12:11:54+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns21a1y",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Such_Capital8537",
+          "body": "I don't have any emotional investment in being right or wrong and I actually want this to be real, but I still think this is CGI",
+          "created_utc": "2025-12-03T12:36:05+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns22y0x",
+          "parent_id": "t1_ns21a1y",
+          "author": "heart-aroni",
+          "body": "Here's [the previous thread for the original video](https://www.reddit.com/r/singularity/s/q23R3yWNfY).",
+          "created_utc": "2025-12-03T12:47:32+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns28qai",
+          "parent_id": "t1_ns22y0x",
+          "author": "Such_Capital8537",
+          "body": "Sorry, but the link doesn't lead me anywhere (it doesn't open the thread)",
+          "created_utc": "2025-12-03T13:24:10+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns28ay5",
+          "parent_id": "t1_ns21a1y",
+          "author": "kowdermesiter",
+          "body": "Yes, they added the logo to the top left corner with an editing software and the PIP too. The robot is real though.",
+          "created_utc": "2025-12-03T13:21:36+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1ywec",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Low_Mistake_7748",
+          "body": "Why does the robot have 2 shadows at 0:20 and the guy doesn't?",
+          "created_utc": "2025-12-03T12:19:06+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1tqhn",
+          "parent_id": "t3_1pd1ka3",
+          "author": "Mandoman61",
+          "body": "These robot acrobatics videos are getting old.\n\nI get it -robots can dance and pretend fight",
+          "created_utc": "2025-12-03T11:39:04+00:00",
+          "score": -1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns1vhlq",
+          "parent_id": "t3_1pd1ka3",
+          "author": "mypseudonymyoyoyo",
+          "body": "Ah yeah that\u2019s what we need fighting robots /s",
+          "created_utc": "2025-12-03T11:53:04+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns20uml",
+          "parent_id": "t1_ns1vhlq",
+          "author": "heart-aroni",
+          "body": "It's not what we need. It's what we want!",
+          "created_utc": "2025-12-03T12:33:06+00:00",
+          "score": 1,
+          "depth": 0
+        },
+        {
+          "comment_id": "ns291bb",
+          "parent_id": "t1_ns20uml",
+          "author": "mypseudonymyoyoyo",
+          "body": "Let\u2019s think who will be using these to kick immigrants out or oppress the proletariat \ud83e\udd14",
+          "created_utc": "2025-12-03T13:26:00+00:00",
+          "score": 1,
+          "depth": 0
+        }
+      ],
+      "comments_scraped_count": 144
+    }
+  ]
+}

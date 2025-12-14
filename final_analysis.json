@@ -1,0 +1,29 @@
+[
+  {
+    "post_id": "1pd2to1",
+    "classification": {
+      "topic_category": "Artificial Intelligence and Neuroscience",
+      "post_type": "News Article",
+      "user_intent": "Discussion of mental health implications and humor",
+      "confidence": 0.95
+    }
+  },
+  {
+    "post_id": "1pcylux",
+    "classification": {
+      "topic_category": "Artificial Intelligence and Robotics in Sanitation Services",
+      "post_type": "News Article",
+      "user_intent": "Discussion on deployment and management of autonomous sanitation robots, with expressions of desire for their implementation in other cities",
+      "confidence": 0.95
+    }
+  },
+  {
+    "post_id": "1pd1ka3",
+    "classification": {
+      "topic_category": "Artificial Intelligence and Robotics",
+      "post_type": "News Teaser",
+      "user_intent": "Humor and Speculation",
+      "confidence": 0.95
+    }
+  }
+]
